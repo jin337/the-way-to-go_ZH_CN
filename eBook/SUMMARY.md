@@ -1,6 +1,8 @@
 # Table of contents
 
-* [1.1 起源与发展](README.md)
+* [前言](README.md)
+* [目录](directory.md)
+* [1.1 起源与发展](<README (1).md>)
 * [1.2 语言的主要特性与发展的环境和影响因素](01.2.md)
 * [2.1 平台与架构](02.1.md)
 * [2.2 Go 环境变量](02.2.md)
@@ -209,5 +211,3 @@
 * [21.4 Camilistore：一个可寻址内容存储系统](21.4.md)
 * [21.5 Go 语言的其他应用](21.5.md)
 * [关于本文·16.10.2小结糟糕错误处理的一些见解](Discussion\_about\_16.10.md)
-* [目录](directory.md)
-* [前言](preface.md)
